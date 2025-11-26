@@ -1,0 +1,4 @@
+{
+  "name": "CodeGuard AI: PR Reviewer",
+  "description": "An automated, multi-agent powered Pull Request review system. It analyzes code diffs for security, logic, performance, and style issues using Gemini 2.5 Flash."
+}
